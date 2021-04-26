@@ -1,0 +1,3 @@
+[submodule "omnetpp-nix"]
+	path = omnetpp-nix
+	url = https://gitlab.com/schmittlauch/omnetpp-nix.git
